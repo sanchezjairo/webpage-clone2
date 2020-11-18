@@ -1,0 +1,277 @@
+.border{
+    border-width: !important;
+    border-top-width:130px !important;
+    display: flex;
+    justify-content: center !important;
+
+}
+/* Container needed to position the button. Adjust the width as needed */
+
+/* Make the image responsive */
+
+/* Style the button and place it in the middle of the container/image */
+.yes .btn {
+  position: absolute;
+  top: 112%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes .btn:hover {
+  background-color: white;
+}
+
+.yes1 .btn {
+  position: absolute;
+  top: 93%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes1 .btn:hover {
+  background-color: black;
+}
+
+.yes1 .btn2 {
+  position: absolute;
+  top: 93%;
+  left: 26%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes1 .btn2:hover {
+  background-color: black;
+}
+
+.yes2 .btn{
+  position: absolute;
+  top: 93%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes2 .btn:hover {
+  background-color: white;
+}
+.yes2 .btn3 {
+  position: absolute;
+  top: 93%;
+  left: 26%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes2 .btn3:hover {
+  background-color: black;
+}
+.yes3 .btn {
+  position: absolute;
+  top: 112%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes3 .btn:hover {
+  background-color: white;
+}
+.yes4 .btn {
+  position: absolute;
+  top: 90%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes4 .btn:hover {
+  background-color: white;
+}
+.yes5 .btn {
+  position: absolute;
+  top: 90%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes5 .btn:hover {
+  background-color: white;
+}
+.yes6 .btn {
+  position: absolute;
+  top: 90%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes6 .btn:hover {
+  background-color: white;
+}
+
+.yes7 .btn {
+  position: absolute;
+  top: 93%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes7 .btn:hover {
+  background-color: white;
+}
+
+.yes8 .btn {
+  position: absolute;
+  top: 93%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.ye8 .btn:hover {
+  background-color: white;
+}
+
+.yes9 .btn {
+  position: absolute;
+  top: 535%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes9 .btn:hover {
+  background-color: white;
+}
+
+.yes10 .btn {
+  position: absolute;
+  top: 5%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes10 .btn:hover {
+  background-color: white;
+}
+
+.yes10 .btn4 {
+  position: absolute;
+  top: 5%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.yes10 .btn4:hover {
+  background-color: white;
+}
+
+.footer{
+  background-color: black
+  
+}
