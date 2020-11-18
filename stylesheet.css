@@ -5,11 +5,8 @@
     justify-content: center !important;
 
 }
-/* Container needed to position the button. Adjust the width as needed */
 
-/* Make the image responsive */
 
-/* Style the button and place it in the middle of the container/image */
 .yes .btn {
   position: absolute;
   top: 112%;
@@ -273,5 +270,5 @@
 
 .footer{
   background-color: black
-  
+
 }
